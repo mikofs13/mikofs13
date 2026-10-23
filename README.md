@@ -49,15 +49,6 @@
 - Machine Learning model deployment
 - Cloud infrastructure and scalable systems
 
-### 📊 GitHub Telemetry
-
-<!-- Replace YOUR_USERNAME with your GitHub username -->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikofs13&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mikofs13&layout=compact&theme=dark)
-
----
 
 <div align="center">
 
